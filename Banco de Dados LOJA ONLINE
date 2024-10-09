@@ -1,0 +1,6 @@
+Loja Online
+
+Dados Armazenados: Informações sobre produtos (nome, preço, estoque), clientes (nome, endereço) e pedidos (itens comprados, status).
+Importância: Facilita a gestão de estoque, melhora a experiência do cliente e assegura o processamento eficiente de transações.
+
+Correlação dos Dados: Ambos os sistemas gerenciam informações sobre usuários e produtos, além de registrarem transações que são fundamentais para suas operações. A integridade e acessibilidade dos dados são essenciais para o sucesso e eficiência de ambos os serviços.
